@@ -1,4 +1,2 @@
-PetriNet-Simulator
-==================
 
-Designed a PetriNet Simulator for Pipelined MIPS architecture to simulate the flow of instruction tokens.
+Designed a Petri Net Simulator for MIPS architecture to simulate the flow of instruction tokens.
